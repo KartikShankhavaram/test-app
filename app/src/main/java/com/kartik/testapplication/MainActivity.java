@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity {
         // Price is not updated, so write quantity instead of price OR
         // (Remove comments if trying out)
         /*  price = quantity * 5;
-            PriceTextView.setText("Name :Ninaad" + "\nquantity:"+quantity+"\nprice :"+quantity*5+"\nThank you");
+            PriceTextView.setText("Name :Ninaad" + "\nquantity:"+quantity+"\nprice :"+price+"\nThank you");
         */
         PriceTextView.setText("Name :Ninaad" + "\nquantity:"+quantity+"\nprice :"+quantity*5+"\nThank you");
     }
